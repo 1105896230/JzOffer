@@ -2,19 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f12912e9-e304-44ac-ab07-4ba670daa8bc" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/voice.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Hex.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/thirteen.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/sF/HelloWorld.class" afterPath="$PROJECT_DIR$/out/production/sF/HelloWorld.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/fourteen.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sF.iml" afterPath="$PROJECT_DIR$/sF.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/BinaryTreeNode.java" afterPath="$PROJECT_DIR$/src/BinaryTreeNode.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/HelloWorld.java" afterPath="$PROJECT_DIR$/src/HelloWorld.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/twelve.java" afterPath="$PROJECT_DIR$/src/twelve.java" />
     </list>
     <ignored path="jzoffer.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -65,12 +54,26 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="thirteen.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="thirteen.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/thirteen.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="270">
               <caret line="39" column="3" selection-start-line="39" selection-start-column="3" selection-end-line="39" selection-end-column="39" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="fourteen.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/fourteen.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="116">
+              <caret line="51" column="1" selection-start-line="51" selection-start-column="1" selection-end-line="70" selection-end-column="5" />
+              <folding>
+                <element signature="e#0#2006#0" expanded="true" />
+                <element signature="e#1971#1972#0" expanded="true" />
+                <element signature="e#2002#2003#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -87,6 +90,13 @@
       </file>
     </leaf>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -101,6 +111,7 @@
         <option value="$PROJECT_DIR$/src/BinaryTreeNode.java" />
         <option value="C:/Program Files/Java/jdk1.7.0_79/jre/lib/rt.jar!/com/sun/xml/internal/messaging/saaj/util/ByteOutputStream.class" />
         <option value="$PROJECT_DIR$/src/thirteen.java" />
+        <option value="$PROJECT_DIR$/src/fourteen.java" />
       </list>
     </option>
   </component>
@@ -613,16 +624,16 @@
       <workItem from="1478963102104" duration="59000" />
       <workItem from="1479000396613" duration="684000" />
       <workItem from="1479024304639" duration="4000" />
-      <workItem from="1479128111830" duration="744000" />
+      <workItem from="1479128111830" duration="2400000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1491000" />
+    <option name="totallyTimeSpent" value="3147000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -632,7 +643,7 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32910052" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32864583" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -753,6 +764,18 @@
         <state relative-caret-position="270">
           <caret line="39" column="3" selection-start-line="39" selection-start-column="3" selection-end-line="39" selection-end-column="39" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/fourteen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="51" column="1" selection-start-line="51" selection-start-column="1" selection-end-line="70" selection-end-column="5" />
+          <folding>
+            <element signature="e#0#2006#0" expanded="true" />
+            <element signature="e#1971#1972#0" expanded="true" />
+            <element signature="e#2002#2003#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
