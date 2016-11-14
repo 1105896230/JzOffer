@@ -39,7 +39,7 @@ import java.util.Arrays;
 //输入数字n,按顺序打印出从1最大的n位十进制数。比如输入3，则打印出1、2、3一直到最大的3位数即999
 public class twelve {
     public static void main(String[] args) {
-        printToMaxOfDigst(4);
+        printToMax2(3);
     }
     //error
     void PrintToMaxOfNDigits_1(int n){
@@ -87,7 +87,7 @@ public class twelve {
         }
         return isOverflow;
     }
-    public void printNumber(char[] num){
+    public static void printNumber(char[] num){
         int size = num.length;
         int i = 0;
         while(i < size && num[i] == '0') //i < size在前，否则越界
@@ -98,13 +98,13 @@ public class twelve {
         System.out.println(printNum);
     }
 
-    public void printToMax2(int n){
+    public static void printToMax2(int n){
         if(n <= 0) return;
         char[] number = new char[n];
         Arrays.fill(number, '0');
         printOrder(number,n,0);
     }
-    public void printOrder(char[] number, int n, int loc){
+    public static void printOrder(char[] number, int n, int loc){
         if(loc == n) return;
         for(int i = 0; i <= 9; i++){
             number[loc] = (char)('0' + i);

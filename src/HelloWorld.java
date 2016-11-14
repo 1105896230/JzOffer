@@ -29,5 +29,15 @@
  * email:1105896230@qq.com
  */
 public class HelloWorld {
+    public static void main(String[] args) {
+        int anInt =63;
+        String s = Integer.toHexString(anInt);
+        byte[] bytes=new byte[6];
+        for (int i=0;i<5;i++){
+            bytes[i]=1;
+        }
+        byte[] bytes1 = s.getBytes();
+        byte c=   (byte)anInt;
+    }
 
 }
