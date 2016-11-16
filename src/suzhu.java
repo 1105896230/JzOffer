@@ -33,7 +33,7 @@ import java.util.Stack;
 public class suzhu {
 
     public static void main(String[] args) {
-        System.out.print(tester2(9));
+        test();
     }
 
     //http://blog.csdn.net/sunmenggmail/article/details/7668387
@@ -46,7 +46,7 @@ public class suzhu {
     // 则每次判断都可以排除一行或一列以缩小查找范围，直到找到要查找的数字，或者查找范围为空。
     private static void suzhu1() {
         int[][] arr = {{1, 2, 8, 9}, {2, 4, 9, 12}, {4, 7, 10, 13}, {6, 8, 11, 15}};
-        int target = 7;
+        int target = 16;
         int rows = arr.length;
         int columns = arr[0].length;
         int row = 0;
@@ -59,6 +59,7 @@ public class suzhu {
             }
             if (target > arr[row][column]) {
                 row++;
+                if (row>=rows)break;
             }
             if (target < arr[row][column]) {
                 column--;
@@ -75,8 +76,9 @@ public class suzhu {
      * 因此替换以后字符串的长度等于原来的长度加上2乘以空格数。
      */
     public static void test() {
-        String str = "we are happy";
-        char[] charOld = str.toCharArray();
+
+        String str = "We Are Happy";
+        char[] charOld = str.trim().toCharArray();
         char[] charNew = new char[100];
         for (int j = 0; j < charOld.length; j++) {
             charNew[j] = charOld[j];
@@ -89,16 +91,15 @@ public class suzhu {
         }
         int lengthFront = charOld.length - 1;
 
-        int lengthBack = charOld.length + 2 * blank - 1;
+        int lengthBack = charOld.length + 2 * blank-1;
 
-        while (lengthFront >= 0 && lengthBack >= 0) {
+        while (lengthFront >= 0 && lengthBack > lengthFront) {
             if (charNew[lengthFront] != ' ') {
                 charNew[lengthBack--] = charNew[lengthFront];
             } else {
                 charNew[lengthBack--] = '0';
                 charNew[lengthBack--] = '2';
                 charNew[lengthBack--] = '%';
-                lengthFront--;
             }
             lengthFront--;
         }
@@ -107,14 +108,14 @@ public class suzhu {
 
     //从尾到头打印链表
     public static void test1(ListNode node) {
-        Stack mStack = new Stack<>();
-        while (node != null) {
-            mStack.push(node);
-            node = node.getNext();
-        }
-        while (!mStack.empty()) {
-            System.out.print(mStack.pop());
-        }
+//        Stack mStack = new Stack<>();
+//        while (node != null) {
+//            mStack.push(node);
+//            node = node.getNext();
+//        }
+//        while (!mStack.empty()) {
+//            System.out.print(mStack.pop());
+//        }
     }
 
     //递归解决
