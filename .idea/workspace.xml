@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f12912e9-e304-44ac-ab07-4ba670daa8bc" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/twenty_three.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/twenty_four.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="jzoffer.iws" />
@@ -28,7 +28,7 @@
         <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="491">
-              <caret line="1275" column="14" selection-start-line="1275" selection-start-column="14" selection-end-line="1275" selection-end-column="14" />
+              <caret line="1293" column="14" selection-start-line="1293" selection-start-column="14" selection-end-line="1293" selection-end-column="14" />
               <folding />
             </state>
           </provider>
@@ -54,15 +54,25 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="twenty_three.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="twenty_three.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/twenty_three.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="131">
-              <caret line="39" column="2" selection-start-line="39" selection-start-column="2" selection-end-line="39" selection-end-column="2" />
+              <caret line="39" column="11" selection-start-line="39" selection-start-column="11" selection-end-line="39" selection-end-column="11" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#1530#1539#0" expanded="true" />
+                <element signature="e#1539#1548#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="twenty_four.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/twenty_four.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="32" column="0" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="24" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -103,6 +113,7 @@
         <option value="$PROJECT_DIR$/src/twenty_one.java" />
         <option value="$PROJECT_DIR$/src/twenty_two.java" />
         <option value="$PROJECT_DIR$/src/twenty_three.java" />
+        <option value="$PROJECT_DIR$/src/twenty_four.java" />
       </list>
     </option>
   </component>
@@ -736,12 +747,12 @@
       <workItem from="1479692256320" duration="14000" />
       <workItem from="1479696840718" duration="42000" />
       <workItem from="1479726455507" duration="1813000" />
-      <workItem from="1479744290132" duration="127000" />
+      <workItem from="1479744290132" duration="828000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28384000" />
+    <option name="totallyTimeSpent" value="29085000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1924" height="1056" extended-state="0" />
@@ -827,14 +838,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/eighteen.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/suzhu.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2340">
@@ -1187,7 +1190,7 @@
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="491">
-          <caret line="1275" column="14" selection-start-line="1275" selection-start-column="14" selection-end-line="1275" selection-end-column="14" />
+          <caret line="1293" column="14" selection-start-line="1293" selection-start-column="14" selection-end-line="1293" selection-end-column="14" />
           <folding />
         </state>
       </provider>
@@ -1211,11 +1214,19 @@
     <entry file="file://$PROJECT_DIR$/src/twenty_three.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="131">
-          <caret line="39" column="2" selection-start-line="39" selection-start-column="2" selection-end-line="39" selection-end-column="2" />
+          <caret line="39" column="11" selection-start-line="39" selection-start-column="11" selection-end-line="39" selection-end-column="11" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1530#1539#0" expanded="true" />
+            <element signature="e#1539#1548#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/twenty_four.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="32" column="0" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="24" />
+          <folding />
         </state>
       </provider>
     </entry>
