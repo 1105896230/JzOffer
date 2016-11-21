@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f12912e9-e304-44ac-ab07-4ba670daa8bc" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/twenty_four.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/twenty_five.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="jzoffer.iws" />
@@ -28,7 +28,7 @@
         <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="491">
-              <caret line="1293" column="14" selection-start-line="1293" selection-start-column="14" selection-end-line="1293" selection-end-column="14" />
+              <caret line="1312" column="14" selection-start-line="1312" selection-start-column="14" selection-end-line="1312" selection-end-column="14" />
               <folding />
             </state>
           </provider>
@@ -67,12 +67,26 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="twenty_four.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="twenty_four.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/twenty_four.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="32" column="0" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="24" />
+            <state relative-caret-position="990">
+              <caret line="66" column="5" selection-start-line="40" selection-start-column="4" selection-end-line="66" selection-end-column="5" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="twenty_five.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/twenty_five.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="44" column="3" selection-start-line="44" selection-start-column="3" selection-end-line="81" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1985#2005#0" expanded="true" />
+                <element signature="e#2074#2083#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -114,6 +128,7 @@
         <option value="$PROJECT_DIR$/src/twenty_two.java" />
         <option value="$PROJECT_DIR$/src/twenty_three.java" />
         <option value="$PROJECT_DIR$/src/twenty_four.java" />
+        <option value="$PROJECT_DIR$/src/twenty_five.java" />
       </list>
     </option>
   </component>
@@ -747,12 +762,12 @@
       <workItem from="1479692256320" duration="14000" />
       <workItem from="1479696840718" duration="42000" />
       <workItem from="1479726455507" duration="1813000" />
-      <workItem from="1479744290132" duration="828000" />
+      <workItem from="1479744290132" duration="1598000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29085000" />
+    <option name="totallyTimeSpent" value="29855000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1924" height="1056" extended-state="0" />
@@ -838,14 +853,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/suzhu.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2340">
-          <caret line="103" column="26" selection-start-line="103" selection-start-column="26" selection-end-line="103" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/fiveteen.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1190,7 +1197,7 @@
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="491">
-          <caret line="1293" column="14" selection-start-line="1293" selection-start-column="14" selection-end-line="1293" selection-end-column="14" />
+          <caret line="1312" column="14" selection-start-line="1312" selection-start-column="14" selection-end-line="1312" selection-end-column="14" />
           <folding />
         </state>
       </provider>
@@ -1224,9 +1231,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/twenty_four.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="32" column="0" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="24" />
+        <state relative-caret-position="990">
+          <caret line="66" column="5" selection-start-line="40" selection-start-column="4" selection-end-line="66" selection-end-column="5" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/twenty_five.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="44" column="3" selection-start-line="44" selection-start-column="3" selection-end-line="81" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1985#2005#0" expanded="true" />
+            <element signature="e#2074#2083#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
