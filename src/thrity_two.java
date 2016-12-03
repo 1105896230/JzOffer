@@ -5,8 +5,11 @@
 public class thrity_two {
 
     public static void main(String[] args) {
-        int n=10;
-        int x=1;
+        test(2593);
+    }
+
+    static int test(int n){
+        int x=5;
         if(n<0||x<1||x>9)
             return 0;
         int high,low,curr,tmp,i = 1;
@@ -28,7 +31,6 @@ public class thrity_two {
         }
         return total;
     }
-
 
     int NumberOflBetweenlAndN(int n){
         int number=0;
