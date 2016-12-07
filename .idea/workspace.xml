@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f12912e9-e304-44ac-ab07-4ba670daa8bc" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/fourty_three.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="f12912e9-e304-44ac-ab07-4ba670daa8bc" name="Default" comment="" />
     <ignored path="jzoffer.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -112,8 +109,8 @@
       <file leaf-file-name="fourty_three.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/fourty_three.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="18" column="31" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="31" />
+            <state relative-caret-position="538">
+              <caret line="37" column="5" selection-start-line="7" selection-start-column="4" selection-end-line="37" selection-end-column="5" />
               <folding>
                 <element signature="e#121#122#0" expanded="true" />
                 <element signature="e#157#158#0" expanded="true" />
@@ -837,12 +834,12 @@
       <workItem from="1480938703478" duration="4137000" />
       <workItem from="1480989084979" duration="9000" />
       <workItem from="1481073964783" duration="4911000" />
-      <workItem from="1481107321132" duration="4783000" />
+      <workItem from="1481107321132" duration="5096000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="84115000" />
+    <option name="totallyTimeSpent" value="84428000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -865,8 +862,8 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3265766" sideWeight="0.5064516" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33586133" sideWeight="0.49785638" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32142857" sideWeight="0.4935484" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33586133" sideWeight="0.49785638" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3206934" sideWeight="0.4935484" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33635396" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -1269,8 +1266,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/fourty_three.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="18" column="31" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="31" />
+        <state relative-caret-position="538">
+          <caret line="37" column="5" selection-start-line="7" selection-start-column="4" selection-end-line="37" selection-end-column="5" />
           <folding>
             <element signature="e#121#122#0" expanded="true" />
             <element signature="e#157#158#0" expanded="true" />
