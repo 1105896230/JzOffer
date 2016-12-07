@@ -33,4 +33,26 @@ public class thrity_nine {
         }
         return IsBalanced_Solution(root.left)&&IsBalanced_Solution(root.right);
     }
+
+    boolean isBalance(TreeNode root,int pDepth){
+        if (root==null){
+            pDepth=0;
+            return true;
+        }
+        int left=0;
+        int right=0;
+        if (isBalance(root.left,left)&&isBalance(root.right,right)){
+            int diff=left-right;
+            if (diff<=1&&diff>=-1){
+                pDepth=1+(left>right?left:right);
+                return true;
+            }
+        }
+        return false;
+    }
+
+    boolean isBalanced(TreeNode node){
+        int depth=0;
+        return isBalance(node,depth);
+    }
 }
