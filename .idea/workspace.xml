@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f12912e9-e304-44ac-ab07-4ba670daa8bc" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/fouty_eight.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/fifty.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="jzoffer.iws" />
@@ -58,14 +58,30 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="fouty_eight.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="fouty_eight.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/fouty_eight.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1680">
-              <caret line="62" column="13" selection-start-line="62" selection-start-column="13" selection-end-line="62" selection-end-column="13" />
+            <state relative-caret-position="120">
+              <caret line="4" column="3" selection-start-line="4" selection-start-column="3" selection-end-line="36" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="fifty.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/fifty.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1979">
+              <caret line="83" column="5" selection-start-line="9" selection-start-column="3" selection-end-line="83" selection-end-column="5" />
               <folding>
-                <element signature="e#862#863#0" expanded="true" />
-                <element signature="e#905#906#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+                <element signature="e#253#263#0" expanded="true" />
+                <element signature="e#338#339#0" expanded="true" />
+                <element signature="e#376#377#0" expanded="true" />
+                <element signature="e#429#430#0" expanded="true" />
+                <element signature="e#468#469#0" expanded="true" />
+                <element signature="e#2039#2049#0" expanded="true" />
+                <element signature="e#2136#2146#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -133,6 +149,7 @@
         <option value="$PROJECT_DIR$/src/fourty_five.java" />
         <option value="$PROJECT_DIR$/src/fouty_six.java" />
         <option value="$PROJECT_DIR$/src/fouty_eight.java" />
+        <option value="$PROJECT_DIR$/src/fifty.java" />
       </list>
     </option>
   </component>
@@ -782,12 +799,12 @@
       <workItem from="1481073964783" duration="4911000" />
       <workItem from="1481107321132" duration="5831000" />
       <workItem from="1481163829695" duration="8000" />
-      <workItem from="1481177712875" duration="6049000" />
+      <workItem from="1481177712875" duration="7143000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="91220000" />
+    <option name="totallyTimeSpent" value="92314000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -878,8 +895,14 @@
           <properties />
           <option name="timeStamp" value="33" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/fouty_eight.java</url>
+          <line>8</line>
+          <properties />
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="43" />
+      <option name="time" value="44" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -888,13 +911,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/BinaryTreeNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="24" column="50" selection-start-line="24" selection-start-column="50" selection-end-line="24" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.7.0_79/jre/lib/rt.jar!/com/sun/xml/internal/messaging/saaj/util/ByteOutputStream.class" />
     <entry file="jar://C:/Program Files/Java/jdk1.7.0_79/jre/lib/rt.jar!/com/sun/xml/internal/messaging/saaj/util/ByteInputStream.class" />
     <entry file="file://$PROJECT_DIR$/src/BinaryTreeNode.java">
@@ -1232,11 +1248,25 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/fouty_eight.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1680">
-          <caret line="62" column="13" selection-start-line="62" selection-start-column="13" selection-end-line="62" selection-end-column="13" />
+        <state relative-caret-position="120">
+          <caret line="4" column="3" selection-start-line="4" selection-start-column="3" selection-end-line="36" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/fifty.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1979">
+          <caret line="83" column="5" selection-start-line="9" selection-start-column="3" selection-end-line="83" selection-end-column="5" />
           <folding>
-            <element signature="e#862#863#0" expanded="true" />
-            <element signature="e#905#906#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="e#253#263#0" expanded="true" />
+            <element signature="e#338#339#0" expanded="true" />
+            <element signature="e#376#377#0" expanded="true" />
+            <element signature="e#429#430#0" expanded="true" />
+            <element signature="e#468#469#0" expanded="true" />
+            <element signature="e#2039#2049#0" expanded="true" />
+            <element signature="e#2136#2146#0" expanded="true" />
           </folding>
         </state>
       </provider>
