@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f12912e9-e304-44ac-ab07-4ba670daa8bc" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/fouty_six.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/fouty_eight.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="jzoffer.iws" />
@@ -48,12 +48,25 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="fouty_six.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="fouty_six.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/fouty_six.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="9" column="5" selection-start-line="5" selection-start-column="3" selection-end-line="9" selection-end-column="5" />
+            <state relative-caret-position="300">
+              <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="fouty_eight.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/fouty_eight.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1680">
+              <caret line="62" column="13" selection-start-line="62" selection-start-column="13" selection-end-line="62" selection-end-column="13" />
+              <folding>
+                <element signature="e#862#863#0" expanded="true" />
+                <element signature="e#905#906#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -119,6 +132,7 @@
         <option value="$PROJECT_DIR$/src/fouty_four.java" />
         <option value="$PROJECT_DIR$/src/fourty_five.java" />
         <option value="$PROJECT_DIR$/src/fouty_six.java" />
+        <option value="$PROJECT_DIR$/src/fouty_eight.java" />
       </list>
     </option>
   </component>
@@ -768,12 +782,12 @@
       <workItem from="1481073964783" duration="4911000" />
       <workItem from="1481107321132" duration="5831000" />
       <workItem from="1481163829695" duration="8000" />
-      <workItem from="1481177712875" duration="4776000" />
+      <workItem from="1481177712875" duration="6049000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="89947000" />
+    <option name="totallyTimeSpent" value="91220000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -795,9 +809,9 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3265766" sideWeight="0.5064516" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32827735" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32827735" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33586133" sideWeight="0.49785638" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31960997" sideWeight="0.4935484" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31960997" sideWeight="0.4935484" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33635396" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -874,7 +888,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://C:/Program Files/Java/jdk1.7.0_79/jre/lib/rt.jar!/com/sun/xml/internal/messaging/saaj/util/ByteInputStream.class" />
     <entry file="file://$PROJECT_DIR$/src/BinaryTreeNode.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -1211,9 +1224,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/fouty_six.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="9" column="5" selection-start-line="5" selection-start-column="3" selection-end-line="9" selection-end-column="5" />
+        <state relative-caret-position="300">
+          <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/fouty_eight.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1680">
+          <caret line="62" column="13" selection-start-line="62" selection-start-column="13" selection-end-line="62" selection-end-column="13" />
+          <folding>
+            <element signature="e#862#863#0" expanded="true" />
+            <element signature="e#905#906#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
