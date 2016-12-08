@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f12912e9-e304-44ac-ab07-4ba670daa8bc" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/fouty_four.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/fourty_five.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/fourty_three.java" afterPath="$PROJECT_DIR$/src/fourty_three.java" />
     </list>
     <ignored path="jzoffer.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -26,12 +25,25 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="fouty_four.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="fouty_four.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/fouty_four.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+            <state relative-caret-position="510">
+              <caret line="25" column="24" selection-start-line="25" selection-start-column="24" selection-end-line="25" selection-end-column="24" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="fourty_five.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/fourty_five.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="22" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#288#297#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -95,6 +107,7 @@
         <option value="$PROJECT_DIR$/src/fourty_two.java" />
         <option value="$PROJECT_DIR$/src/fourty_three.java" />
         <option value="$PROJECT_DIR$/src/fouty_four.java" />
+        <option value="$PROJECT_DIR$/src/fourty_five.java" />
       </list>
     </option>
   </component>
@@ -744,12 +757,12 @@
       <workItem from="1481073964783" duration="4911000" />
       <workItem from="1481107321132" duration="5831000" />
       <workItem from="1481163829695" duration="8000" />
-      <workItem from="1481177712875" duration="1155000" />
+      <workItem from="1481177712875" duration="2862000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="86326000" />
+    <option name="totallyTimeSpent" value="88033000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -850,13 +863,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/BinaryTreeNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="24" column="50" selection-start-line="24" selection-start-column="50" selection-end-line="24" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.7.0_79/jre/lib/rt.jar!/com/sun/xml/internal/messaging/saaj/util/ByteOutputStream.class" />
     <entry file="jar://C:/Program Files/Java/jdk1.7.0_79/jre/lib/rt.jar!/com/sun/xml/internal/messaging/saaj/util/ByteInputStream.class" />
     <entry file="file://$PROJECT_DIR$/src/BinaryTreeNode.java">
@@ -1176,9 +1182,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/fouty_four.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+        <state relative-caret-position="510">
+          <caret line="25" column="24" selection-start-line="25" selection-start-column="24" selection-end-line="25" selection-end-column="24" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/fourty_five.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#288#297#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
