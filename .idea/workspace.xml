@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f12912e9-e304-44ac-ab07-4ba670daa8bc" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test53.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test54.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="jzoffer.iws" />
@@ -99,11 +99,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="test53.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="test53.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test53.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="531">
               <caret line="38" column="0" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test54.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test54.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="197">
+              <caret line="31" column="30" selection-start-line="31" selection-start-column="30" selection-end-line="31" selection-end-column="30" />
               <folding />
             </state>
           </provider>
@@ -175,6 +185,7 @@
         <option value="$PROJECT_DIR$/src/fifty_one.java" />
         <option value="$PROJECT_DIR$/src/test52.java" />
         <option value="$PROJECT_DIR$/src/test53.java" />
+        <option value="$PROJECT_DIR$/src/test54.java" />
       </list>
     </option>
   </component>
@@ -826,12 +837,12 @@
       <workItem from="1481177712875" duration="7783000" />
       <workItem from="1481261783549" duration="228000" />
       <workItem from="1481283068613" duration="3592000" />
-      <workItem from="1481299414866" duration="806000" />
+      <workItem from="1481299414866" duration="1420000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="97580000" />
+    <option name="totallyTimeSpent" value="98194000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -938,7 +949,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://C:/Program Files/Java/jdk1.7.0_79/jre/lib/rt.jar!/com/sun/xml/internal/messaging/saaj/util/ByteOutputStream.class" />
     <entry file="jar://C:/Program Files/Java/jdk1.7.0_79/jre/lib/rt.jar!/com/sun/xml/internal/messaging/saaj/util/ByteInputStream.class" />
     <entry file="file://$PROJECT_DIR$/src/ListNode.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -1286,6 +1296,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="531">
           <caret line="38" column="0" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test54.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="31" column="30" selection-start-line="31" selection-start-column="30" selection-end-line="31" selection-end-column="30" />
           <folding />
         </state>
       </provider>
