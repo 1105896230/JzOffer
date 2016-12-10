@@ -16,26 +16,45 @@ public class test56 {
         }
     }
 
-    public static ListNode meetingNode(ListNode head) {
-        ListNode fast = head;
-        ListNode slow = head;
-        while (fast != null && fast.next != null) {
-            fast = fast.next.next;
-            slow = slow.next;
-            if (fast == slow) {
-                break;
-            }
-        }
-        // 链表中没有环
-        if (fast == null || fast.next == null) {
+    public ListNode EntryNodeOfLoop(ListNode pHead)
+    {
+        if(pHead==null)
             return null;
+        ListNode node=MeetingNode(pHead);
+        if(node==null)
+            return null;
+        ListNode temp=node.next;
+        int n=1;
+        while(temp!=node){
+            n++;
+            temp=temp.next;
         }
-        // fast重新指向第一个结点
-        fast = head;
-        while (fast != slow) {
-            fast = fast.next;
-            slow = slow.next;
+        ListNode p=pHead;
+        ListNode q=pHead;
+        for(int i=0;i<n;i++){
+            q=q.next;
         }
-        return fast;
+        while(p!=q){
+            p=p.next;
+            q=q.next;
+        }
+        return p;
+    }
+    private ListNode MeetingNode(ListNode pHead){
+        if(pHead==null)
+            return null;
+        ListNode pSlow=pHead.next;
+        if(pSlow==null)
+            return null;
+        ListNode pFast=pSlow.next;
+        while(pFast!=null&&pSlow!=null){
+            if(pFast==pSlow)
+                return pFast;
+            pSlow=pSlow.next;
+            pFast=pFast.next;
+            if(pFast!=null)
+                pFast=pFast.next;
+        }
+        return null;
     }
 }
