@@ -24,7 +24,7 @@ public class test65 {
         // 窗口已经被填满了
         for (int i = size; i < data.size(); i++) {
             // 第一个窗口的最大值保存
-            windowMax.add(data.get(idx.getFirst()));
+                windowMax.add(data.get(idx.getFirst()));
             // 如果索引对应的值比之前存储的索引值对应的值大或者相等，就删除之前存储的值
             while (!idx.isEmpty() && data.get(i) >= data.get(idx.getLast())) {
                 idx.removeLast();
